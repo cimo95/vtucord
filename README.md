@@ -1,6 +1,6 @@
 ---
 description: >-
-  Vtucord 2.0 – Karena kami ingin menjadi bagian dari kesuksesan komunitas
+  VtucordID – Karena kami ingin menjadi bagian dari kesuksesan komunitas
   penggemarmu!
 icon: party-bell
 cover: .gitbook/assets/bg.jpg
@@ -38,18 +38,18 @@ layout:
 Bayangkan, kamu adalah seorang VTuber yang sedang berkembang dan ingin membangun komunitas di Discord—tapi bingung harus mulai dari mana.\
 Atau mungkin, kamu sudah punya server Discord, tapi terasa berantakan dan susah merapikannya?
 
-Nah, di sinilah **VTucord 2.0** hadir!\
+Nah, di sinilah **VTucordID** hadir!\
 Kami siap membantumu **membuat, merombak, dan mengelola** server Discord komunitasmu dengan lebih **aman, rapi, dan berkualitas**. Dan kalau sudah begitu, kamu bisa fokus buat konten dan komunitasmu, biarkan kami yang urus teknisnya!&#x20;
 
 ### Ringkasan
 
-Vtucord 2.0 Telah dipercaya lebih dari 50 VTuber Indonesia untuk membuat dan merombak Server Discord mereka.
+VtucordID Telah dipercaya lebih dari 50 VTuber Indonesia untuk membuat dan merombak Server Discord mereka.
 
-Vtucord 2.0 Menyediakan dukungan manajemen server hingga 180 hari agar VTuber dapat fokus mengembangkan komunitas penggemar mereka.
+VtucordID Menyediakan dukungan manajemen server hingga 180 hari agar VTuber dapat fokus mengembangkan komunitas penggemar mereka.
 
-Vtucord 2.0 mendukung penuh untuk komunitas penggemar setiap individu VTuber Indonesia, Indie maupun Agensi.&#x20;
+VtucordID mendukung penuh untuk komunitas penggemar setiap individu VTuber Indonesia, Indie maupun Agensi.&#x20;
 
-Vtucord 2.0 Selamanya gratis untuk seluruh VTuber Indie di Indonesia.
+VtucordID Selamanya gratis untuk seluruh VTuber Indie dan terjangkau untuk seluruh VTuber agensi di Indonesia.
 
 
 

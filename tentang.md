@@ -7,7 +7,7 @@ icon: user-helmet-safety
 
 ### Apa?
 
-Kami adalah tim kecil yang lahir dari permintaan seorang VTuber senior (yang kami segani dan kami rahasiakan identitasnya) untuk membantu pengembangan komunitas bagi VTuber Indonesia. Berbekal pengetahuan dasar dari kegabutan membaca halaman dokumentasi Discord, dan pengalaman membantu mengurus beberapa server Discord VTuber sebelumnya, kami pun bersedia dan menerima permintaannya.
+Kami (VtucordID sebelumnya Vtucord 2.0) adalah tim kecil yang lahir dari permintaan seorang VTuber senior (yang kami segani dan kami rahasiakan identitasnya) untuk membantu pengembangan komunitas bagi VTuber Indonesia. Berbekal pengetahuan dasar dari kegabutan membaca halaman dokumentasi Discord, dan pengalaman membantu mengurus beberapa server Discord VTuber sebelumnya, kami pun bersedia dan menerima permintaannya.
 
 ### Siapa?
 

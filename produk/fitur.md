@@ -19,7 +19,7 @@ Kami akan memberikan solusi paling efektif untuk memenuhi keinginan tentang baga
 
 <summary>🔧 Masa Manajemen Hingga 6 Bulan ¹</summary>
 
-Vtucord 2.0 tidak hanya membuat server, tapi juga memberikan fasilitas pemantauan server selama 6 bulan / 180 hari sejak server aktif (untuk request/pembuatan server, dan 30 hari untuk update/rombak server). Ini membantu VTuber PARTNER untuk fokus mengembangkan dirinya, dan membangun interaksi dengan penggemarnya di dalam server.
+VtucordID tidak hanya membuat server, tapi juga memberikan fasilitas pemantauan server selama 6 bulan / 180 hari sejak server aktif (untuk request/pembuatan server, dan 30 hari untuk update/rombak server). Ini membantu VTuber PARTNER untuk fokus mengembangkan dirinya, dan membangun interaksi dengan penggemarnya di dalam server.
 
 ¹ : Hanya paket [Buat Server VTuber Indie](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-indie) / [Buat Server VTuber Agensi Pro](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-agensi-pro)
 
@@ -29,11 +29,11 @@ Vtucord 2.0 tidak hanya membuat server, tapi juga memberikan fasilitas pemantaua
 
 <summary>🗓️ Perpanjang Masa Manajemen ³</summary>
 
-Vtuber PARTNER bisa meminta untuk perpanjang masa manajemen server bila dirasa masih perlu bantuan untuk mengurus servernya (Syarat dan Ketentuan Tambahan Berlaku) ¹. Dalam kondisi tertentu, VTuber PARTNER akan otomatis diperpanjang masa manajemennya jika berkontribusi dalam proyek yang diadakan oleh rekan atau tim yang terkait dengan Vtucord 2.0 ².
+Vtuber PARTNER bisa meminta untuk perpanjang masa manajemen server bila dirasa masih perlu bantuan untuk mengurus servernya (Syarat dan Ketentuan Tambahan Berlaku) ¹. Dalam kondisi tertentu, VTuber PARTNER akan otomatis diperpanjang masa manajemennya jika berkontribusi dalam proyek yang diadakan oleh rekan atau tim yang terkait dengan VtucordID ².
 
 ¹ : Hanya paket [Buat Server VTuber Indie](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-indie) / [Buat Server VTuber Agensi Pro](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-agensi-pro)\
 ² : Hanya paket selain [Buat Server VTuber Agensi](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-agensi)\
-³ : Fitur tetap tersedia selama PARTNER masih berada di server Vtucord 2.0.
+³ : Fitur tetap tersedia selama PARTNER masih berada di server VtucordID.
 
 </details>
 
@@ -41,7 +41,7 @@ Vtuber PARTNER bisa meminta untuk perpanjang masa manajemen server bila dirasa m
 
 <summary>ℹ️ Informasi Terpusat</summary>
 
-Informasi seputar Vtucord 2.0 termasuk masalah Discord secara umum, akan dikabarkan secara langsung dari server pusat kami, ke seluruh server VTuber PARTNER.
+Informasi seputar VtucordID termasuk masalah Discord secara umum, akan dikabarkan secara langsung dari server pusat kami, ke seluruh server VTuber PARTNER.
 
 </details>
 
@@ -72,12 +72,8 @@ Kami menyediakan halaman landing, ringkasan channel dan pengumuman yang informat
 
 <div align="left"><figure><img src="../.gitbook/assets/ahomika_youtube_siaran_shorts.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-6. Halaman landing dengan data yang diambil dari channel YouTube VTuber.
-
-<div align="left"><figure><img src="../.gitbook/assets/vtucordlanding.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
-
 ¹ : Hanya paket [Buat Server VTuber Indie](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-indie) / [Buat Server VTuber Agensi Pro](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-agensi-pro)\
-³ : Fitur tetap tersedia selama PARTNER masih berada di server Vtucord 2.0
+³ : Fitur tetap tersedia selama PARTNER masih berada di server VtucordID
 
 </details>
 
@@ -146,7 +142,7 @@ Menyalin kembali tautan live chat popout untuk disertakan dalam Browser Source O
 Oleh karena itu, kami membuatnya lebih mudah dengan memberikan URL tetap yang hanya perlu mengganti bagian kecil dari URL tersebut setiap kali akan memulai siaran, dan biarkan kami yang mendeteksi waiting room serta mengambil livechat terbaru.
 
 ¹ : Hanya paket [Buat Server VTuber Indie](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-indie) / [Buat Server VTuber Agensi Pro](https://cimosoft.gitbook.io/vtucord/produk/hnk#buat-server-vtuber-agensi-pro)\
-³ : Fitur tetap tersedia selama PARTNER masih berada di server Vtucord 2.0\
+³ : Fitur tetap tersedia selama PARTNER masih berada di server VtucordID\
 <sub>Paket selain yang disebut di atas, masih bisa menggunakan fitur ini. Namun terdapat iklan dan delay 10 detik.</sub>
 
 </details>

@@ -33,8 +33,8 @@ layout:
 \- **Diluluskan**: Masa manajemen buat server telah selesai, server dilepaskan ke VTuber ybs.\
 \- **Diselesaikan**: Masa manajemen ubah server / buat server agensi (non-pro) telah selesai.\
 \- **Diperpanjang**: VTuber ybs setuju/ingin memperpanjang masa manajemen dari Buat Server.\
-\- **Donasi**: VTuber Indie yang meminta buat/ubah server, dan berdonasi untuk Vtucord 2.0.\
-\- **Partnership**: VTuber ybs aktif berkontribusi atas Vtucord 2.0 dan proyek Tim CIMOSOFT.
+\- **Donasi**: VTuber Indie yang meminta buat/ubah server, dan berdonasi untuk VtucordID.\
+\- **Partnership**: VTuber ybs aktif berkontribusi atas VtucordID dan proyek Tim CIMOSOFT.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -43,8 +43,8 @@ layout:
 {% endhint %}
 
 {% hint style="danger" %}
-\- **Dicekal**: VTuber bermasalah, dicekal/banned di seluruh server Vtucord 2.0.\
+\- **Dicekal**: VTuber bermasalah, dicekal/banned di seluruh server VtucordID.\
 \- **Dihapus**: Server dihapus karena bermasalah.\
-\- **Keluar**: Keluar dari server Vtucord 2.0 (terlepas status masa manajemennya).
+\- **Keluar**: Keluar dari server VtucordID (terlepas status masa manajemennya).
 {% endhint %}
 
