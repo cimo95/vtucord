@@ -15,7 +15,7 @@ Inilah "kami" yang berusaha menyediakan dan menjaga komitmen agar proyek ini tet
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Arachmadi Putra</strong><br>Project Leader, Server Manager</td><td><a href=".gitbook/assets/app.jpeg">app.jpeg</a></td></tr><tr><td><strong>Aurelia Noumi</strong><br>Customer Representative, Server Manager</td><td><a href=".gitbook/assets/ana.jpeg">ana.jpeg</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Arandalle Arose</strong><br>Server App, Customer Representative (human mode)</td><td><a href=".gitbook/assets/aarose.jpg">aarose.jpg</a></td></tr><tr><td><strong>Nanami Chalichia</strong><br>Server Advisor</td><td><a href=".gitbook/assets/mamachia.jpg">mamachia.jpg</a></td></tr><tr><td><strong>Pak Amier</strong><br>Server Advisor</td><td><a href=".gitbook/assets/pakmimir.webp">pakmimir.webp</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Arandalle Arose</strong><br>Server App, Customer Representative (human mode)</td><td><a href=".gitbook/assets/aarose.jpg">aarose.jpg</a></td></tr></tbody></table>
 
 ### Kenapa?
 
